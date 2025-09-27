@@ -10,6 +10,7 @@ import * as product from "../test_data/product.json"
   Test Case 2 - Verify of product page by filtering the product and Verify Add to Cart
   Test Case 3 - Verify the checkOut paage by not providing the value in the input filed
   
+  
   all  the above test case are covered as a single E2E flow
   */
 
